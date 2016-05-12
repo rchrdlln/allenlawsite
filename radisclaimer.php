@@ -1,0 +1,4 @@
+        <p class="content"><strong>Disclaimer</strong></p>
+            <p class="contentleft">
+This Web site is offered for informational purposes only. None of the material found on this Web site should be construed as legal advice. Use of the material found on this site does not create an attorney-client relationship. Contacting any attorney through this site does not create an attorney-client relationship. When contacting an attorney through this site, please do not divulge confidential information. No guarantee is made of the accuracy or completeness of any information found on this site.
+        </p>

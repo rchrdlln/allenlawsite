@@ -1,0 +1,184 @@
+<!-- from https://wp-themes.com/akasse/ -->
+<!--
+body, p {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  background: none;
+    text-align: center;
+    font-size: 20px;
+}
+-->
+body {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.site-title {
+font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 46px;
+}
+
+.site-slogan {
+     font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+  color: black;
+}
+
+.content {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.contentleft {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+}
+
+.footer {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 10%;
+}
+
+ul.nav {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+    margin: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10px;
+    padding: 5px;
+    overflow: hidden;
+     background-color: #FF8C00;
+    display: block;
+}
+
+ul.contact {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+    margin: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 0px;
+    overflow: hidden;
+     background-color: #FFFFFF;
+    display: block;
+}
+
+ul.content {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    list-style-type: none;
+    margin-bottom: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 0px;
+    overflow: hidden;
+     background-color: #FFFFFF;
+    display: block;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+li.nav {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    float: none;
+    width: 120px;
+    margin: 5px;
+    padding: 5px;
+    display: inline;
+}
+
+li.contact {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    float: none;
+    width: 120px;
+    margin: 0px;
+    padding: 5px;
+    display: inline;
+}
+
+a {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    //* display: inline-block; */
+       
+}
+
+/* unvisited link */
+a:link {
+    color: #FF8C00;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+    text-decoration: underline;
+}
+
+a.nav {
+    //* font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: #FF8C00; */
+    //* display: inline-block; */
+       
+}
+
+/* unvisited link */
+a.nav:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/* visited link */
+a.nav:visited {
+    color: #8B4513;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a.nav:hover {
+    color: #A52A2A;
+    text-decoration: underline;
+}
+
+/* selected link */
+a.nav:active {
+    color: #0000FF;
+    text-decoration: underline;
+}
