@@ -23,7 +23,7 @@
 	<li>Advised clients on and drafted agreements for a variety of transactions including:
 		<br>
 		<br>
-		<ul>
+		<ul class="content">
 		<li>Sale of an entrepreneur's interests in two LLCs in the wine and spirits industry
 		</li>
 		<li>Purchase of the assets of a nightclub, including intellectual property
@@ -66,14 +66,6 @@
 	</li>
 </ul>
 
-<p><strong>Transactional: Entertainment</strong></p>
-<ul class="content">
-	<li>Represented nationally known hip-hop music group in negotiation of a recording contract with an independent label and production agreements with outside producers.
-	</li>
-	<li>Represented filmmakers in a business dispute regarding the terms of a North Carolina limited liability company ("LLC") operating agreement.
-	</li>
-</ul>
-
 <p><strong>Transactional and Litigation: Intellectual Property: Copyright/Trademark/Domain Name</strong></p>
 	<ul class="content">
 	<li>Successfully defended a web developer against claims of copyright and trademark infringement, resulting in dismissal of claims.
@@ -87,7 +79,7 @@
 	<li>Advised on trademark issues and filed trademark registration applications for a variety of businesses, including: 
 		<br>
 		<br>
-		<ul>
+		<ul class="content">
 		<li>a national children's clothing business with a significant Web presence
 		</li>
 		<li>a Raleigh, NC data hosting company
@@ -99,6 +91,14 @@
 		</ul>
 	</li>
 	<li>Assisted an SEO entrepreneur in resolving Uniform Domain Name Resolution Procedure initiated by a giant of the tech industry.
+	</li>
+</ul>
+
+<p><strong>Transactional: Entertainment</strong></p>
+<ul class="content">
+	<li>Represented nationally known hip-hop music group in negotiation of a recording contract with an independent label and production agreements with outside producers.
+	</li>
+	<li>Represented filmmakers in a business dispute regarding the terms of a North Carolina limited liability company ("LLC") operating agreement.
 	</li>
 </ul>
 
